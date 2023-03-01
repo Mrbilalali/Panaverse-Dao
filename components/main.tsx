@@ -35,7 +35,7 @@ export default function Main() {
                 Bioinformatics Technologies
               </Text>
               <Button mt={"10"} size={"lg"} colorScheme="red">
-                <Link href="">
+                <Link href="https://www.piaic.org/">
                 Learn More
                 </Link>
               </Button>
