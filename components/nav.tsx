@@ -40,6 +40,7 @@ export default function Nav() {
           >
             <Link href={"/"}>Home</Link>
             <Link href={"/about"}>About</Link>
+            <Link href={"/syllabus"}>Syllabus</Link>
             {/* <Link href={""}>Explore</Link>
             <Link href={""}>Courses</Link> */}
           </Flex>
@@ -65,6 +66,7 @@ export default function Nav() {
               <MenuList>
                 <MenuItem><Link href={"/"}>Home</Link></MenuItem>
                 <MenuItem><Link href={"/about"}>About</Link></MenuItem>
+                <MenuItem><Link href={"/syllabus"}>Syllabus</Link></MenuItem>
                 {/* <MenuItem><Link href={""}>Explore</Link></MenuItem> */}
                 {/* <MenuItem><Link href={""}>Courses</Link></MenuItem> */}
                 <MenuItem><Link href={"https://www.piaic.org/"}>Apply Now</Link></MenuItem>

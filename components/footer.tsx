@@ -44,9 +44,10 @@ export default function Footer() {
             <Heading>Pages</Heading>
             <Grid textColor={"gray.300"} pt={"5"}>
               <Link href={"/"}>Home</Link>
-              <Link href={""}>Syllabus</Link>
-              <Link href={""}>Explore</Link>
-              <Link href={""}>Courses</Link>
+              <Link href={"syllabus"}>Syllabus</Link>
+              <Link href={"/about"}>About</Link>
+              {/* <Link href={""}>Explore</Link>
+              <Link href={""}>Courses</Link> */}
             </Grid>
           </Box>
 
